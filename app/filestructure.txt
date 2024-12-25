@@ -1,0 +1,48 @@
+|-- chatbot
+    |-- agents.py
+    |-- main1.py
+|-- chatbot.py
+|-- crud.py
+|-- database.py
+|-- dependencies.py
+|-- main.py
+|-- main1.py
+|-- models.py
+|-- roles.py
+|-- routers
+    |-- agents.py
+    |-- auth.py
+    |-- calendar.py
+    |-- chat.py
+    |-- expenses.py
+    |-- orders.py
+    |-- products.py
+    |-- product_img.py
+    |-- sessions.py
+    |-- upload_pdf.py
+    |-- users.py
+    |-- __pycache__
+        |-- agents.cpython-310.pyc
+        |-- auth.cpython-310.pyc
+        |-- calendar.cpython-310.pyc
+        |-- chat.cpython-310.pyc
+        |-- expenses.cpython-310.pyc
+        |-- orders.cpython-310.pyc
+        |-- products.cpython-310.pyc
+        |-- product_img.cpython-310.pyc
+        |-- session.cpython-310.pyc
+        |-- sessions.cpython-310.pyc
+        |-- users.cpython-310.pyc
+|-- schemas.py
+|-- utils.py
+|-- __init__.py
+|-- __pycache__
+    |-- crud.cpython-310.pyc
+    |-- database.cpython-310.pyc
+    |-- dependencies.cpython-310.pyc
+    |-- main.cpython-310.pyc
+    |-- models.cpython-310.pyc
+    |-- roles.cpython-310.pyc
+    |-- schemas.cpython-310.pyc
+    |-- utils.cpython-310.pyc
+    |-- __init__.cpython-310.pyc

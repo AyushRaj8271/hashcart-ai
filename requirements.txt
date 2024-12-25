@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+sqlalchemy
+streamlit
+load_dotenv
+python-dotenv
+psycopg2
